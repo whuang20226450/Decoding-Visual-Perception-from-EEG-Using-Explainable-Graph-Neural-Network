@@ -1,6 +1,6 @@
 # Instructions
 
-⚠ **Warning:** This code may be messy and could contain bugs. Use with caution.
+**Warning:** This code may be messy and could contain bugs. This code is just for reference.
 
 ## 1. Download the Data  
 Download the dataset from [Stanford PURL](https://purl.stanford.edu/bq914sc3730) and extract the files. Ensure you have the `S1~10.mat` files available.
