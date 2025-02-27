@@ -1,0 +1,100 @@
+epoch 0: 1000/unknown | train loss: 1.8234 | duration: 21 seconds
+epoch 0: 2000/unknown | train loss: 1.7795 | duration: 3 seconds
+epoch 0: 3000/unknown | train loss: 1.7663 | duration: 3 seconds
+epoch 0: 4000/unknown | train loss: 1.7437 | duration: 3 seconds
+epoch 0: validation acc: 0.2876447876447876 | macrof1: 0.27725070905368215 | microf1: 0.2876447876447876 | loss: 1.6898347954032045 | duration: 50.70529103279114
+epoch 1: 1000/unknown | train loss: 1.576 | duration: 21 seconds
+epoch 1: 2000/unknown | train loss: 1.576 | duration: 3 seconds
+epoch 1: 3000/unknown | train loss: 1.5718 | duration: 3 seconds
+epoch 1: 4000/unknown | train loss: 1.5805 | duration: 3 seconds
+epoch 1: validation acc: 0.26833976833976836 | macrof1: 0.270811347823766 | microf1: 0.26833976833976836 | loss: 1.7337064236747712 | duration: 50.5865912437439
+epoch 2: 1000/unknown | train loss: 1.4958 | duration: 20 seconds
+epoch 2: 2000/unknown | train loss: 1.5076 | duration: 3 seconds
+epoch 2: 3000/unknown | train loss: 1.508 | duration: 3 seconds
+epoch 2: 4000/unknown | train loss: 1.5162 | duration: 3 seconds
+epoch 2: validation acc: 0.30115830115830117 | macrof1: 0.2967593080814212 | microf1: 0.30115830115830117 | loss: 1.6407510148052082 | duration: 50.222063064575195
+epoch 3: 1000/unknown | train loss: 1.431 | duration: 20 seconds
+epoch 3: 2000/unknown | train loss: 1.4473 | duration: 3 seconds
+epoch 3: 3000/unknown | train loss: 1.4401 | duration: 3 seconds
+epoch 3: 4000/unknown | train loss: 1.4436 | duration: 3 seconds
+epoch 3: validation acc: 0.3108108108108108 | macrof1: 0.3160514733854585 | microf1: 0.3108108108108108 | loss: 1.6984685555848376 | duration: 50.56581735610962
+epoch 4: 1000/unknown | train loss: 1.3754 | duration: 21 seconds
+epoch 4: 2000/unknown | train loss: 1.3696 | duration: 3 seconds
+epoch 4: 3000/unknown | train loss: 1.3815 | duration: 3 seconds
+epoch 4: 4000/unknown | train loss: 1.3803 | duration: 3 seconds
+epoch 4: validation acc: 0.28378378378378377 | macrof1: 0.2847903357890353 | microf1: 0.28378378378378377 | loss: 1.6872333269782047 | duration: 50.75334715843201
+epoch 5: 1000/unknown | train loss: 1.2887 | duration: 21 seconds
+epoch 5: 2000/unknown | train loss: 1.3085 | duration: 3 seconds
+epoch 5: 3000/unknown | train loss: 1.3142 | duration: 3 seconds
+epoch 5: 4000/unknown | train loss: 1.3232 | duration: 3 seconds
+epoch 5: validation acc: 0.3030888030888031 | macrof1: 0.30189587277947666 | microf1: 0.3030888030888031 | loss: 1.7184594648685234 | duration: 50.57948589324951
+epoch 6: 1000/unknown | train loss: 1.2201 | duration: 20 seconds
+epoch 6: 2000/unknown | train loss: 1.2346 | duration: 3 seconds
+epoch 6: 3000/unknown | train loss: 1.2719 | duration: 3 seconds
+epoch 6: 4000/unknown | train loss: 1.2756 | duration: 3 seconds
+epoch 6: validation acc: 0.3127413127413127 | macrof1: 0.31177307388945374 | microf1: 0.3127413127413127 | loss: 1.6854570208829343 | duration: 50.393948793411255
+epoch 7: 1000/unknown | train loss: 1.1479 | duration: 21 seconds
+epoch 7: 2000/unknown | train loss: 1.1814 | duration: 3 seconds
+epoch 7: 3000/unknown | train loss: 1.2032 | duration: 3 seconds
+epoch 7: 4000/unknown | train loss: 1.209 | duration: 3 seconds
+epoch 7: validation acc: 0.33204633204633205 | macrof1: 0.3283181365359603 | microf1: 0.33204633204633205 | loss: 1.8151835516152695 | duration: 50.73770451545715
+epoch 8: 1000/unknown | train loss: 1.0703 | duration: 21 seconds
+epoch 8: 2000/unknown | train loss: 1.1253 | duration: 3 seconds
+epoch 8: 3000/unknown | train loss: 1.1604 | duration: 3 seconds
+epoch 8: 4000/unknown | train loss: 1.1671 | duration: 3 seconds
+epoch 8: validation acc: 0.33976833976833976 | macrof1: 0.3370839673201725 | microf1: 0.33976833976833976 | loss: 1.7626772608075822 | duration: 50.4408175945282
+epoch 9: 1000/unknown | train loss: 1.093 | duration: 20 seconds
+epoch 9: 2000/unknown | train loss: 1.0804 | duration: 3 seconds
+epoch 9: 3000/unknown | train loss: 1.0946 | duration: 3 seconds
+epoch 9: 4000/unknown | train loss: 1.1002 | duration: 3 seconds
+epoch 9: validation acc: 0.31467181467181465 | macrof1: 0.3122358204210485 | microf1: 0.31467181467181465 | loss: 1.7860623934094049 | duration: 50.393948554992676
+epoch 10: 1000/unknown | train loss: 1.0003 | duration: 20 seconds
+epoch 10: 2000/unknown | train loss: 1.0038 | duration: 3 seconds
+epoch 10: 3000/unknown | train loss: 1.0209 | duration: 3 seconds
+epoch 10: 4000/unknown | train loss: 1.0368 | duration: 3 seconds
+epoch 10: validation acc: 0.34555984555984554 | macrof1: 0.3451210767529786 | microf1: 0.34555984555984554 | loss: 1.7838182430930118 | duration: 50.36268758773804
+epoch 11: 1000/unknown | train loss: 0.9485 | duration: 21 seconds
+epoch 11: 2000/unknown | train loss: 0.9515 | duration: 3 seconds
+epoch 11: 3000/unknown | train loss: 0.97 | duration: 3 seconds
+epoch 11: 4000/unknown | train loss: 0.9792 | duration: 3 seconds
+epoch 11: validation acc: 0.3552123552123552 | macrof1: 0.3542119644280759 | microf1: 0.3552123552123552 | loss: 1.7757356861843565 | duration: 50.581443309783936
+epoch 12: 1000/unknown | train loss: 0.8952 | duration: 21 seconds
+epoch 12: 2000/unknown | train loss: 0.9085 | duration: 3 seconds
+epoch 12: 3000/unknown | train loss: 0.9211 | duration: 3 seconds
+epoch 12: 4000/unknown | train loss: 0.9364 | duration: 3 seconds
+epoch 12: validation acc: 0.33204633204633205 | macrof1: 0.3232218331642754 | microf1: 0.33204633204633205 | loss: 1.8501165612784132 | duration: 50.58146142959595
+epoch 13: 1000/unknown | train loss: 0.8705 | duration: 20 seconds
+epoch 13: 2000/unknown | train loss: 0.8787 | duration: 3 seconds
+epoch 13: 3000/unknown | train loss: 0.8879 | duration: 3 seconds
+epoch 13: 4000/unknown | train loss: 0.8993 | duration: 3 seconds
+epoch 13: validation acc: 0.31467181467181465 | macrof1: 0.3132987872296034 | microf1: 0.31467181467181465 | loss: 1.9300654919451268 | duration: 50.565826177597046
+epoch 14: 1000/unknown | train loss: 0.778 | duration: 20 seconds
+epoch 14: 2000/unknown | train loss: 0.8037 | duration: 3 seconds
+epoch 14: 3000/unknown | train loss: 0.8285 | duration: 3 seconds
+epoch 14: 4000/unknown | train loss: 0.8417 | duration: 3 seconds
+epoch 14: validation acc: 0.3281853281853282 | macrof1: 0.3277453922221243 | microf1: 0.3281853281853282 | loss: 1.9204234766223716 | duration: 50.39393973350525
+epoch 15: 1000/unknown | train loss: 0.7371 | duration: 20 seconds
+epoch 15: 2000/unknown | train loss: 0.7541 | duration: 3 seconds
+epoch 15: 3000/unknown | train loss: 0.7707 | duration: 3 seconds
+epoch 15: 4000/unknown | train loss: 0.7833 | duration: 3 seconds
+epoch 15: validation acc: 0.333976833976834 | macrof1: 0.336707447440119 | microf1: 0.333976833976834 | loss: 1.9164966777484849 | duration: 50.36267876625061
+epoch 16: 1000/unknown | train loss: 0.6475 | duration: 21 seconds
+epoch 16: 2000/unknown | train loss: 0.6849 | duration: 3 seconds
+epoch 16: 3000/unknown | train loss: 0.7075 | duration: 3 seconds
+epoch 16: 4000/unknown | train loss: 0.7313 | duration: 3 seconds
+epoch 16: validation acc: 0.33783783783783783 | macrof1: 0.34247307972357977 | microf1: 0.33783783783783783 | loss: 2.0288206357293146 | duration: 50.37831401824951
+epoch 17: 1000/unknown | train loss: 0.6567 | duration: 20 seconds
+epoch 17: 2000/unknown | train loss: 0.6546 | duration: 3 seconds
+epoch 17: 3000/unknown | train loss: 0.6646 | duration: 3 seconds
+epoch 17: 4000/unknown | train loss: 0.677 | duration: 3 seconds
+epoch 17: validation acc: 0.3223938223938224 | macrof1: 0.3209164391857711 | microf1: 0.3223938223938224 | loss: 2.0714054632370997 | duration: 50.37635397911072
+epoch 18: 1000/unknown | train loss: 0.6057 | duration: 20 seconds
+epoch 18: 2000/unknown | train loss: 0.6286 | duration: 3 seconds
+epoch 18: 3000/unknown | train loss: 0.6338 | duration: 3 seconds
+epoch 18: 4000/unknown | train loss: 0.6492 | duration: 3 seconds
+epoch 18: validation acc: 0.33204633204633205 | macrof1: 0.3222636956503533 | microf1: 0.33204633204633205 | loss: 2.1391934363538234 | duration: 50.409565925598145
+epoch 19: 1000/unknown | train loss: 0.5947 | duration: 21 seconds
+epoch 19: 2000/unknown | train loss: 0.5951 | duration: 3 seconds
+epoch 19: 3000/unknown | train loss: 0.6148 | duration: 3 seconds
+epoch 19: 4000/unknown | train loss: 0.631 | duration: 3 seconds
+epoch 19: validation acc: 0.3166023166023166 | macrof1: 0.3148883055039402 | microf1: 0.3166023166023166 | loss: 2.2173807183748044 | duration: 50.51895713806152
